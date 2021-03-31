@@ -1,0 +1,24 @@
+{
+  "name": "Hi-Book",
+  "version": "1.0.0",
+  "description": "GitBook Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+
+    "type": "git",
+    "url": "git+https://github.com/lijiamei/Hi-Book.git"
+  },
+  "keywords": [],
+  "author": "lijiamei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lijiamei/Hi-Book/issues"
+  },
+  "homepage": "https://github.com/lijiamei/Hi-Book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
